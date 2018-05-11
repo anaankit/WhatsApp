@@ -1,0 +1,84 @@
+:root{
+	font-size:16px;
+}
+
+
+.bg {
+    background:  #006400 ;
+    
+    height: 15vh;
+}
+
+.bgl {
+    background: silver;
+    
+    height: 15vh;
+}
+
+
+.title{
+	background:  #006400 ;
+	font-size: 1.5rem;
+	color:white;
+	text-align: left;
+	padding: 2%
+
+}
+
+.titlel{
+	background: silver;
+	font-size: 1.5rem;
+	color:white;
+	text-align: left;
+	padding: 2%
+
+}
+
+
+.chats{
+	color:white;
+	text-align: center;
+	font-size: 1.2rem;
+
+}
+
+.search{
+	
+	padding:3%;
+	color:white;
+	font-size: 1.2rem;
+
+}
+
+
+.user_names{
+	font-size: 1.5rem;
+	font-weight: bold;
+	text-align: left
+}
+
+.user_btn{
+	background-color: white;
+	height:100%;
+	width: 100%;
+}
+
+.exp{
+
+	width: 100%;
+	height: auto;
+
+}
+.sml{
+	padding: 0px;
+	text-align: left;
+	
+}
+
+
+.frame{
+	
+	height:100vh;
+	width:50vw;
+	border:0;
+}
